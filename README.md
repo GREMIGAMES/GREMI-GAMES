@@ -8,4 +8,4 @@
 </p>
 </body>
 </html>
-https://gremigames.com/my-website/
+https://gremigames.com
