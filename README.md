@@ -3,15 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>PlayNow - Online Games</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f4f4;
-    }
-
-    header {
+  header {
       background-color: #1e1e2f;
       color: #fff;
       padding: 1rem 2rem;
